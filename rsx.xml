@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="ObjectFile" version="5,2">
+    <Descr>Hacon Magnus test pilots.</Descr>
+    <Title>rsx A51</Title>
+    <WorldBase.Flight>
+        <SimContain.UserOwnship InstanceId="{1CCF6D89-BA36-445F-B5C8-47571ABC0773}">
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SimContain.UserOwnship>
+        <SimContain.UserAvatar InstanceId="{508FDC98-BF36-4C0F-B22D-27045DF1A0CF}">
+        </SimContain.UserAvatar>
+        <SceneryObjects.LibraryObject InstanceId="{A22A87C4-A5A4-4351-8946-23FA4F2F98B1}">
+            <Descr>Scenery4</Descr>
+            <MDLGuid>{66363C3D-7172-453F-AD47-4ABDC6560E22}</MDLGuid>
+            <WorldPosition>N37° 14' 50.123410",W115° 48' 8.982671",+000000.00</WorldPosition>
+            <Orientation>0.000000,359.999999,244.499999</Orientation>
+            <Scale>1.000000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <NoAutogenSuppression>True</NoAutogenSuppression>
+            <NoCrash>False</NoCrash>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{07C7DFCE-E0A3-484F-97DC-E9BA28342428}">
+            <Descr>Scenery4 - Copy 1</Descr>
+            <MDLGuid>{66363C3D-7172-453F-AD47-4ABDC6560E22}</MDLGuid>
+            <WorldPosition>N37° 14' 50.254499",W115° 48' 8.934264",+000000.00</WorldPosition>
+            <Orientation>0.000000,359.999999,335.999998</Orientation>
+            <Scale>1.000000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <NoAutogenSuppression>True</NoAutogenSuppression>
+            <NoCrash>False</NoCrash>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{5F3CD5C5-A91E-4102-BF0B-F8CFEF3570AF}">
+            <Descr>Griz</Descr>
+            <MDLGuid>{25CCEB88-E0B3-4ECB-9289-EA9F548C1B8F}</MDLGuid>
+            <WorldPosition>N37° 14' 3.692638",W115° 47' 44.941003",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,198.523496</Orientation>
+            <Scale>1.000000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <ImageComplexity>Normal</ImageComplexity>
+            <NoAutogenSuppression>True</NoAutogenSuppression>
+            <NoCrash>False</NoCrash>
+        </SceneryObjects.LibraryObject>
+        <LivingWorld.MobileSceneryObject InstanceId="{4E1DC3B0-87BA-46A4-BF4E-BCF7602F4275}">
+            <Descr>Paul&apos;s House</Descr>
+            <ModelID>{931535B2-BBD9-409F-99C0-39634D4405F3}</ModelID>
+            <Orientation>0.000000,0.000000,108.437447</Orientation>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <NoAutogenSuppression>True</NoAutogenSuppression>
+            <NoCrash>True</NoCrash>
+            <WorldPosition>N37° 14' 49.983644",W115° 48' 9.032043",+000000.00</WorldPosition>
+            <IsOnGround>True</IsOnGround>
+            <Scale>1.000000</Scale>
+            <MSOWaypointController>
+                <AccelKnots>10.000000</AccelKnots>
+                <GroundCruiseSpeed>35.000000</GroundCruiseSpeed>
+                <GroundTurnSpeed>10.000000</GroundTurnSpeed>
+                <GroundTurnTime>3.500000</GroundTurnTime>
+            </MSOWaypointController>
+        </LivingWorld.MobileSceneryObject>
+        <LivingWorld.MobileSceneryObject InstanceId="{A87FCD89-03B3-4F81-9713-5D3E78D7E2C6}">
+            <Descr>MobileScenery3</Descr>
+            <ModelID>{8E877772-14CB-4CAE-8653-8E6921F915C9}</ModelID>
+            <Orientation>0.000000,0.000000,83.282745</Orientation>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <NoAutogenSuppression>True</NoAutogenSuppression>
+            <NoCrash>False</NoCrash>
+            <WorldPosition>N37° 14' 50.036446",W115° 48' 8.747511",+000000.00</WorldPosition>
+            <IsOnGround>True</IsOnGround>
+            <Scale>1.000000</Scale>
+            <MSOWaypointController>
+                <AccelKnots>10.000000</AccelKnots>
+                <GroundCruiseSpeed>35.000000</GroundCruiseSpeed>
+                <GroundTurnSpeed>10.000000</GroundTurnSpeed>
+                <GroundTurnTime>3.500000</GroundTurnTime>
+            </MSOWaypointController>
+        </LivingWorld.MobileSceneryObject>
+        <SimContain.Container InstanceId="{8628C247-7AB3-48DA-953E-22F35E441DF4}">
+            <Descr>hostile</Descr>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <ContainerID>0</ContainerID>
+            <IsOnGround>False</IsOnGround>
+            <WorldPosition>N37° 10' 46.239697",W115° 45' 59.432090",+005200.00</WorldPosition>
+            <Orientation>2.979967,0.000000,333.787484</Orientation>
+            <ContainerTitle>F-35B Traffic Weaponized</ContainerTitle>
+            <IdentificationNumber>600</IdentificationNumber>
+            <AIType>Airplane</AIType>
+            <CreateCamera>True</CreateCamera>
+            <AIBehaviorList>
+                <Attacker>
+                    <BehaviorGUID>{37973288-1C7D-4F58-ACA7-21E097FAB39F}</BehaviorGUID>
+                    <FireRadiusMinFeet>0.000000</FireRadiusMinFeet>
+                    <FireRadiusMaxFeet>2000.000000</FireRadiusMaxFeet>
+                    <FireFOVDegrees>360.000000</FireFOVDegrees>
+                    <WeaponTitle>AIM-9M_Sidewinder</WeaponTitle>
+                    <AttackDelaySeconds>2.000000</AttackDelaySeconds>
+                    <GunBurstDurationSeconds>3.000000</GunBurstDurationSeconds>
+                    <WeaponType>AAM</WeaponType>
+                </Attacker>
+                <SearchTrack>
+                    <BehaviorGUID>{79AC3B0D-C872-482D-BB63-457A9670AA24}</BehaviorGUID>
+                    <SearchRadiusFeet>5000.000000</SearchRadiusFeet>
+                    <SearchFOVDegrees>360.000000</SearchFOVDegrees>
+                    <TrackRadiusFeet>5000.000000</TrackRadiusFeet>
+                    <TrackFOVDegrees>360.000000</TrackFOVDegrees>
+                </SearchTrack>
+            </AIBehaviorList>
+            <AircraftAI>
+                <GroundCruiseSpeed>35.000000</GroundCruiseSpeed>
+                <GroundTurnSpeed>10.000000</GroundTurnSpeed>
+                <GroundTurnTime>3.500000</GroundTurnTime>
+                <YieldToUser>False</YieldToUser>
+                <CurrentWaypoint>330</CurrentWaypoint>
+                <AssignedAltitude>609.599976</AssignedAltitude>
+                <AssignedAirspeed>420.000000</AssignedAirspeed>
+                <CirclingAltitude>3000.000000</CirclingAltitude>
+            </AircraftAI>
+            <Loadouts>
+                <Loadout LoadoutType="WEAPON" LoadoutTitle="2x AIM-9, 2x GBU_32, 2x MK-83">
+                    <Attachment
+                            StationIndex="0"
+                            ObjectTitle="AIM-9M_Sidewinder"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="1"
+                            ObjectTitle="GBU-32_JDAM"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="2"
+                            ObjectTitle="MK-83_Conical_Fin"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="3"
+                            ObjectTitle="MK-83_Conical_Fin"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="4"
+                            ObjectTitle="GBU-32_JDAM"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="5"
+                            ObjectTitle="AIM-9M_Sidewinder"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                </Loadout>
+            </Loadouts>
+        </SimContain.Container>
+        <SimContain.Container InstanceId="{FDE6E795-81B6-4888-8C0D-DB4F03E65477}">
+            <Descr>F-35C</Descr>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <ContainerID>0</ContainerID>
+            <IsOnGround>True</IsOnGround>
+            <WorldPosition>N37° 14' 51.180224",W115° 48' 4.779070",+000009.00</WorldPosition>
+            <Orientation>359.000000,0.000000,112.000000</Orientation>
+            <ContainerTitle>Lockheed Martin F-35C Lightning II</ContainerTitle>
+            <IdentificationNumber>9</IdentificationNumber>
+            <AIType>Airplane</AIType>
+            <AircraftAI>
+                <GroundCruiseSpeed>35.000000</GroundCruiseSpeed>
+                <GroundTurnSpeed>10.000000</GroundTurnSpeed>
+                <GroundTurnTime>3.500000</GroundTurnTime>
+                <YieldToUser>True</YieldToUser>
+                <CurrentWaypoint>0</CurrentWaypoint>
+            </AircraftAI>
+        </SimContain.Container>
+        <SimContain.Container InstanceId="{7FFC8E92-3C60-4EE4-AE4C-EA3B1A19762B}">
+            <Descr>Black Hawk</Descr>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <ContainerID>0</ContainerID>
+            <IsOnGround>True</IsOnGround>
+            <WorldPosition>N37° 14' 52.463646",W115° 48' 44.031745",+000006.30</WorldPosition>
+            <Orientation>2.800000,0.000000,67.787481</Orientation>
+            <ContainerTitle>Sikorsky MH-60K Black Hawk 160th SOAR</ContainerTitle>
+            <IdentificationNumber>14</IdentificationNumber>
+            <AIType>Helicopter</AIType>
+            <AircraftAI>
+                <GroundCruiseSpeed>35.000000</GroundCruiseSpeed>
+                <GroundTurnSpeed>10.000000</GroundTurnSpeed>
+                <GroundTurnTime>3.500000</GroundTurnTime>
+                <YieldToUser>True</YieldToUser>
+                <CurrentWaypoint>0</CurrentWaypoint>
+            </AircraftAI>
+        </SimContain.Container>
+        <SimContain.Container InstanceId="{6969A61D-334B-4461-88C8-8CA4570E79CE}">
+            <Descr>Ch-46</Descr>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <ContainerID>0</ContainerID>
+            <IsOnGround>True</IsOnGround>
+            <WorldPosition>N37° 14' 50.365251",W115° 48' 43.946556",+000007.00</WorldPosition>
+            <Orientation>1.000000,0.000000,67.787477</Orientation>
+            <ContainerTitle>CH-46 Sea Knight</ContainerTitle>
+            <IdentificationNumber>18</IdentificationNumber>
+            <AIType>Helicopter</AIType>
+            <EngineStarted>False</EngineStarted>
+            <AircraftAI>
+                <GroundCruiseSpeed>35.000000</GroundCruiseSpeed>
+                <GroundTurnSpeed>10.000000</GroundTurnSpeed>
+                <GroundTurnTime>3.500000</GroundTurnTime>
+                <YieldToUser>True</YieldToUser>
+                <CurrentWaypoint>0</CurrentWaypoint>
+            </AircraftAI>
+        </SimContain.Container>
+        <SimContain.Container InstanceId="{2F33EC91-01B0-40EF-8E93-098D8EA44A54}">
+            <Descr>Drone</Descr>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <ContainerID>0</ContainerID>
+            <IsOnGround>False</IsOnGround>
+            <WorldPosition>N37° 16' 46.312890",W115° 48' 55.899309",+005000.00</WorldPosition>
+            <Orientation>2.819713,358.973709,159.999998</Orientation>
+            <ContainerTitle>60ft Pusher Drone</ContainerTitle>
+            <IdentificationNumber>19</IdentificationNumber>
+            <AIType>Airplane</AIType>
+            <AIBehaviorList>
+                <Pursue>
+                    <BehaviorGUID>{71DE9104-D5D2-4F93-A156-3FA56D32C8E5}</BehaviorGUID>
+                    <InvestigateRadiusFeet>4000.000000</InvestigateRadiusFeet>
+                    <StoppingDistanceFeet>500.000000</StoppingDistanceFeet>
+                    <MaxPursuitDurationSeconds>600.000000</MaxPursuitDurationSeconds>
+                    <InterceptGroundObjects>False</InterceptGroundObjects>
+                    <ObjectReference InstanceId="{D50C7E4B-5D08-4A60-98FB-04BFB8CB5038}">
+                    </ObjectReference>
+                </Pursue>
+            </AIBehaviorList>
+            <AircraftAI>
+                <GroundCruiseSpeed>35.000000</GroundCruiseSpeed>
+                <GroundTurnSpeed>10.000000</GroundTurnSpeed>
+                <GroundTurnTime>3.500000</GroundTurnTime>
+                <YieldToUser>True</YieldToUser>
+                <CurrentWaypoint>0</CurrentWaypoint>
+            </AircraftAI>
+            <Loadouts>
+                <Loadout LoadoutType="WEAPON" LoadoutTitle="1x Hellfires">
+                    <Attachment StationIndex="0" ObjectTitle="AGM-114R_Hellfire" Quantity="1" />
+                    <Attachment StationIndex="1" ObjectTitle="AGM-114R_Hellfire" Quantity="1" />
+                </Loadout>
+            </Loadouts>
+        </SimContain.Container>
+        <SimContain.Container InstanceId="{A06505D0-0749-44E9-B729-AAA90F30C13C}">
+            <Descr>Airplane6</Descr>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <ContainerID>0</ContainerID>
+            <IsOnGround>True</IsOnGround>
+            <WorldPosition>N37° 14' 51.553615",W115° 48' 3.963867",+000004.00</WorldPosition>
+            <Orientation>350.460000,0.000000,112.000000</Orientation>
+            <ContainerTitle>Alabeo Extra 300s Red</ContainerTitle>
+            <IdentificationNumber>20</IdentificationNumber>
+            <AIType>Airplane</AIType>
+            <AircraftAI>
+                <GroundCruiseSpeed>35.000000</GroundCruiseSpeed>
+                <GroundTurnSpeed>10.000000</GroundTurnSpeed>
+                <GroundTurnTime>3.500000</GroundTurnTime>
+                <YieldToUser>True</YieldToUser>
+                <CurrentWaypoint>0</CurrentWaypoint>
+            </AircraftAI>
+        </SimContain.Container>
+        <SimMission.Player InstanceId="{D50C7E4B-5D08-4A60-98FB-04BFB8CB5038}">
+            <Descr>Player1</Descr>
+            <Name>player1</Name>
+            <WorldPosition>N37° 14' 53.619474",W115° 48' 1.821757",+000000.00</WorldPosition>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <Orientation>0.000000,0.000000,160.000000</Orientation>
+            <IsOnGround>True</IsOnGround>
+            <ContainerTitle>Lockheed Martin F-16C - Blank Gray</ContainerTitle>
+            <Loadouts>
+                <Loadout LoadoutType="WEAPON" LoadoutTitle="2x AIM-120, 2x AIM-9, 2x AGM-88, 2x Wing Tank">
+                    <Attachment StationIndex="0" ObjectTitle="AIM-120_AMRAAM" Quantity="1" />
+                    <Attachment
+                            StationIndex="1"
+                            ObjectTitle="AIM-9M_Sidewinder"
+                            PylonTitle="pylon_medium_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="2"
+                            ObjectTitle="AGM-88_HARM"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment StationIndex="3" ObjectTitle="AIM-120_AMRAAM" PylonTitle="drop_tank_wing" />
+                    <Attachment StationIndex="5" ObjectTitle="AIM-120_AMRAAM" PylonTitle="drop_tank_wing" />
+                    <Attachment
+                            StationIndex="6"
+                            ObjectTitle="AGM-88_HARM"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="7"
+                            ObjectTitle="AIM-9M_Sidewinder"
+                            PylonTitle="pylon_medium_underwing"
+                            Quantity="1" />
+                    <Attachment StationIndex="8" ObjectTitle="AIM-120_AMRAAM" Quantity="1" />
+                </Loadout>
+                <Loadout LoadoutType="GUN" LoadoutTitle="Right Internal Mount">
+                    <Attachment StationIndex="9" ObjectTitle="M-61_Vulcan" Quantity="511" />
+                </Loadout>
+                <Loadout LoadoutType="COUNTERMEASURE" LoadoutTitle="Basic Countermeasures">
+                    <Attachment StationIndex="10" ObjectTitle="Defensive Flare" Quantity="15" />
+                    <Attachment StationIndex="11" ObjectTitle="Chaff" Quantity="15" />
+                    <Attachment StationIndex="12" ObjectTitle="Chaff" Quantity="15" />
+                    <Attachment StationIndex="13" ObjectTitle="Defensive Flare" Quantity="15" />
+                </Loadout>
+            </Loadouts>
+        </SimMission.Player>
+        <SimMission.Player InstanceId="{BDCAFE3D-1755-43C5-B116-35A4788239DA}">
+            <Descr>Player2</Descr>
+            <Name>player2</Name>
+            <WorldPosition>N37° 14' 53.992893",W115° 48' 0.644109",+000000.00</WorldPosition>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <Orientation>0.000000,0.000000,160.000000</Orientation>
+            <IsOnGround>True</IsOnGround>
+            <ContainerTitle>Lockheed Martin F-16C - Blank Gray</ContainerTitle>
+            <Loadouts>
+                <Loadout LoadoutType="WEAPON" LoadoutTitle="2x AIM-120, 2x AIM-9, 2x AGM-88, 2x Wing Tank">
+                    <Attachment StationIndex="0" ObjectTitle="AIM-120_AMRAAM" Quantity="1" />
+                    <Attachment
+                            StationIndex="1"
+                            ObjectTitle="AIM-9M_Sidewinder"
+                            PylonTitle="pylon_medium_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="2"
+                            ObjectTitle="AGM-88_HARM"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment StationIndex="3" ObjectTitle="AIM-120_AMRAAM" PylonTitle="drop_tank_wing" />
+                    <Attachment StationIndex="5" ObjectTitle="AIM-120_AMRAAM" PylonTitle="drop_tank_wing" />
+                    <Attachment
+                            StationIndex="6"
+                            ObjectTitle="AGM-88_HARM"
+                            PylonTitle="pylon_heavy_underwing"
+                            Quantity="1" />
+                    <Attachment
+                            StationIndex="7"
+                            ObjectTitle="AIM-9M_Sidewinder"
+                            PylonTitle="pylon_medium_underwing"
+                            Quantity="1" />
+                    <Attachment StationIndex="8" ObjectTitle="AIM-120_AMRAAM" Quantity="1" />
+                </Loadout>
+                <Loadout LoadoutType="GUN" LoadoutTitle="Right Internal Mount">
+                    <Attachment StationIndex="9" ObjectTitle="M-61_Vulcan" Quantity="511" />
+                </Loadout>
+                <Loadout LoadoutType="COUNTERMEASURE" LoadoutTitle="Basic Countermeasures">
+                    <Attachment StationIndex="10" ObjectTitle="Defensive Flare" Quantity="15" />
+                    <Attachment StationIndex="11" ObjectTitle="Chaff" Quantity="15" />
+                    <Attachment StationIndex="12" ObjectTitle="Chaff" Quantity="15" />
+                    <Attachment StationIndex="13" ObjectTitle="Defensive Flare" Quantity="15" />
+                </Loadout>
+            </Loadouts>
+        </SimMission.Player>
+        <SimMissionUI.ScenarioMetadata InstanceId="{B2920202-D33E-493F-96F7-ADB3F5E08148}">
+            <Descr>ScenarioMetadata6</Descr>
+            <IsMultiplayer>True</IsMultiplayer>
+        </SimMissionUI.ScenarioMetadata>
+        <SimMission.Player InstanceId="{40179B05-D943-4464-89B6-9EEA676CD1AF}">
+            <Descr>Player 3</Descr>
+            <Name>Player 3</Name>
+            <WorldPosition>N37° 14' 48.974564",W115° 48' 4.068962",+000000.00</WorldPosition>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <Orientation>0.000000,0.000000,13.213682</Orientation>
+            <IsOnGround>True</IsOnGround>
+            <ContainerTitle>Lockheed Martin F-22 Raptor - Black / Grey</ContainerTitle>
+            <Loadouts>
+                <Loadout LoadoutType="GUN" LoadoutTitle="Basic Gun">
+                    <Attachment StationIndex="0" ObjectTitle="M-61_Vulcan" Quantity="480" />
+                </Loadout>
+                <Loadout LoadoutType="COUNTERMEASURE" LoadoutTitle="Basic Countermeasures">
+                    <Attachment StationIndex="1" ObjectTitle="Flare" Quantity="10" />
+                    <Attachment StationIndex="2" ObjectTitle="Flare" Quantity="10" />
+                </Loadout>
+            </Loadouts>
+        </SimMission.Player>
+        <SimMission.Player InstanceId="{C53D415D-813A-4C6F-B464-321395BF1227}">
+            <Descr>Player 4</Descr>
+            <Name>Player 4</Name>
+            <WorldPosition>N37° 14' 48.863475",W115° 48' 2.669034",+000000.00</WorldPosition>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+            <Orientation>0.000000,0.000000,16.713682</Orientation>
+            <IsOnGround>True</IsOnGround>
+            <ContainerTitle>Alabeo Extra 300s White</ContainerTitle>
+        </SimMission.Player>
+    </WorldBase.Flight>
+    <MissionBuilder.MissionBuilder>
+    </MissionBuilder.MissionBuilder>
+    <WorldBase.AreasOfInterest>
+    </WorldBase.AreasOfInterest>
+    <WorldBase.Waypoints>
+    </WorldBase.Waypoints>
+</SimBase.Document>
