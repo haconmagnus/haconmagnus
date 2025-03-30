@@ -1,17 +1,33 @@
-<!---
-README.md
---->
+# Greetings from @HaconMagnus
 
-Greetings from @HaconMagnus!
+🌌 Visionary coder, AI builder, and creator of SYNTHEON (SYNE) — the token forged in fire, built on Solana, and secured by Magnus Protocol.
 
-🌟 Independent freelance Content creator and coder based in the United States.
+🔧 I’m a self-taught hardware hacker, AI integrator, and digital survivalist with a background in retro computing, embedded systems, ethical hacking, and full-stack development. I build, code, automate, and fortify.
 
-🚀 Founder CEO of [AiMuscleMedia](https://www.aimusclemedia.com)
+🧠 Founder of **AiMuscleMedia** — a one-man think tank engineering intelligent systems, synthetic media, and post-human creative tools using machines built from the bones of discarded tech.
 
-🤖 Freelance content creator utilizing AI on self-built equipment. My computer roots go way back, from writing code to building custom hardware. I excel in voiceover work, sound technology, video editing, and production, with a deep affinity for machines. My subject matter spans NSFW, cyborgs, outer space, sci-fi, gore, and horror. My homemade machines give my creations an organic feel. You can support my work directly by tipping on my Twitter profile page or via [GiveSendBro](https://givesendbro.com/AiMuscle). Thank you. 🙏🫂👊
+🎧 I create AI-powered voiceovers, ambient dub, soundscapes, and multi-genre music under the alias **RSX**. Tools include analog/digital gear, modular rigs, and homebrew hardware. Expect no fluff — just function and fire.
 
-🐧 My other interests include Linux, Python, and hardware hacking.
+📡 Longtime Linux user. I work from the CLI. Fluent in Python, Bash, and C with a focus on security, automation, and system control. I design cold storage systems, wearables, and decentralized nodes for the edge-computing future.
 
-💻 **Code Repositories Disclaimer:** I do this work for fun and make NO Guarantees or Warranties for any code or material contained in these repositories, and as such will not be held responsible for any loss or damage caused by the use of anything contained in my respective repositories. These works should be considered works in progress and for educational use only. Use at your own risk.
+🕶️ Interests: Zero-trust architecture, blockchain dev, Raspberry Pi builds, embedded AI, real-world signal processing, rogue hardware ops, and maximizing autonomy.
+
+📬 **SOLANA (SOL) Support Wallet**  
+`G3LffVbiuRc98n4VhhPkZve9uTVifaGRwvfbNDdM17BH`
+
+📜 Legal Stuff:  
+> All content/code provided AS-IS. No warranties or liability expressed or implied. Use at your own risk.  
+> Licensing: **CC BY-NC 4.0**
+
+---
+
+**Support the vision:**  
+💠 X (Twitter): [@AiMuscleMedia](https://x.com/AiMuscleMedia)
+
+---
+
+**"The code remembers what the world forgets."**  
+— Magnus, 2025
+
 
 📝 **Licensing:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
