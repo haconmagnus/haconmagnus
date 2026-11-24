@@ -28,10 +28,6 @@
 
 Artificial intelligence is not a replacement for human ambition. It is a tool for expanding what an individual can accomplish.
 
-## Connect
-
-💠 X: [@AiMuscleMedia](https://x.com/AiMuscleMedia)
-
 ## Legal & Licensing
 
 All content and code are provided AS-IS, without warranties or guarantees. Use at your own risk.
